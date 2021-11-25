@@ -1,0 +1,120 @@
+anarchy bot -
+ 
+ based off of minecraft 2b2t
+ 
+ 
+ list of blocks:
+ TNT, 
+ ShulkerBoxes
+ chests
+ logs
+ dirt
+ stone
+ stone bricks
+ obsidian
+ 
+ List of items -
+ carorts
+ beef
+ steak 
+ pork
+ cooked pork
+ coal
+ iron
+ diamond
+ gold
+ pufferfish
+ cooked fish
+ rawr fish
+ sugarcane
+ wheat
+ seeds
+ golden carrots
+ cooked potatos
+ potatos
+ cooked carrots
+           
+ 
+ 
+ List of Tools:
+ hand
+ wooen pickaxe
+ wooden shovel
+ wooden axe
+ wooden hoe
+ wooden sword
+ stone pickaxe
+ stone axe
+ stone shovel
+ stone hoe
+ stone sword
+ iron pickaxe
+ iron axe
+ iron sword
+ iron shovel
+ iron hoe
+ 
+ diamond pickaxe
+ diamond axe
+ diamond sword
+ diamond shovel
+ diamond hoe
+ 
+ fishing rod
+
+ 
+ mobs:
+ zombie
+ pigs
+ sheep
+ cows
+ chickens
+ skeletons
+ zombie pigmans
+ horse
+ skulker 
+ 
+ Travel: 
+ nether - 8.0x faster
+ elytra - 10x faster
+ horse - up to x3.0 faster
+pig with a carrot - x1.5 Faster
+ 
+ COMMANDS:
+ 
+ member commands:
+ commands:
+ a!creategroup (name) 
+ a!joingroup (name)
+ a!leavegroup
+ a!groupinvite (id)
+ a!groupdisband - group owner only
+ a!groupfind (x, y) 
+ a!group 
+ 
+ member task commands:
+ a!craft (block)
+ a!farm(block)
+ a!mine (block)
+ a!fish
+ a!kill (mobs)
+ a!collectitems - from hoppers at base; 
+ a!storeitmes (number) - 1. chest  or  2. shulkers
+ 
+ Group base building commands:
+ a!basebuild (blocks, size)
+ a!build (buiding name) 
+ 
+ 
+ Private Group staff Commands:
+ a!baselocation (x, y)
+ 
+ Admins Commands:
+ a!worldsize (x, y) 
+ a!groupdisband (name)
+ 
+ 
+ 
+ ideas to add for later:
+ potions
+ 
